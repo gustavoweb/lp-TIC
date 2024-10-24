@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+}
+main {
+  max-width: 1200px;
+  width: 100%;
+  height: auto;
+  background: #23aafe;
+  margin: 0 auto;
+}
+header {
+  width: 100%;
+  height: 130px;
+  background: #404040;
+}
+header img {
+  width: 9%;
+  height: auto;
+  margin: 1%;
+  float: left;
+}
+header h1 {
+  float: left;
+  width: 80%;
+  font-family: sans-serif;
+  font-size: 2.5em;
+  color: #ffec5b;
+  margin: 35px 0 0 10px;
+  text-transform: uppercase;
+}
+header p {
+  float: left;
+  width: 80%;
+  font-family: sans-serif;
+  font-size: 1.2em;
+  color: #ffec5b;
+  margin: 5px 0 0 10px;
+  text-transform: uppercase;
+}
+section {
+  width: 100%;
+  height: 500px;
+  background: #ff1c6c;
+}
+footer {
+  width: 100%;
+  height: 80px;
+  background: #ff9a00;
+}
